@@ -46,9 +46,9 @@ A Retrospectiva, "Sprint Retrospective", etapa fundamental para o aprendizado e 
 
 ## 🎯 Kanban 
 Kanban é uma metodologia agil, ou seja ela é uma maneira que um grupo usa para trabalhar. Esse método consiste em um conjunto de práticas que busca evoluir a maneira que a empresa entrega valor nos serviços prestados, a metodoliga possui certos principios, a produção nivelada é um deles, ou seja, é procurado equilibrar a demanda de trabalho, para que o mesmo seja distribuido de maneira uniforme, evitando sobrecargas e garantindo um fluxo de trabalho leve.
-Redução do tempo de preparação, a metodologia também busca reduzir o tempo gasto para preparar uma tarefa ou processo. 
-Padronização dos trabalhos, estabelecendo padrões é possível eliminar as variações e inconcistência, garantindo qualidade e consistência. Além do mais esse estilo de forma de trabalhar facilita o treinamento de novos membros da equipe.
-Aperfeiçoamento contínuo das atividades, por meio de analises de dados, o Kanban busca constante melhoria nos processos, estimulando o grupo identificar e resolver problemas, eliminando desperdícios, aprimorando a eficiência do sistema. 
+"Redução do tempo de preparação", a metodologia também busca reduzir o tempo gasto para preparar uma tarefa ou processo. 
+"Padronização dos trabalhos", estabelecendo padrões é possível eliminar as variações e inconcistência, garantindo qualidade e consistência. Além do mais esse estilo de forma de trabalhar facilita o treinamento de novos membros da equipe.
+"Aperfeiçoamento contínuo das atividades", por meio de analises de dados, o Kanban busca constante melhoria nos processos, estimulando o grupo identificar e resolver problemas, eliminando desperdícios, aprimorando a eficiência do sistema. 
 Tudo isso torna o Kanban uma metodologia muito forte para empresas que buscam aprimorar seu trabalho e alcançar resultados consistentes. 
 🚀 Extreme Programming (XP)
 É uma metodoligia ágil que foca no desenvolvimento de softwarees que funciona de acordo com seus próprios princípios e práticas.
@@ -61,10 +61,10 @@ Da mesma forma que outras metodoligas, essa tembém apresenta alguns princípios
 Na pratica o cliente faz parte do processo de desenvolvimento, por isso a comunicação com ele em todos os processos é fundamental. O mesmo deve ser informado sobre o andamento do sistema e informado em caso de mudanças, e principalmente ouvido.
 "O planejamento do jogo" é uma reunião normalmente feita no inicio da semana entre o cliente e o responsável pelo software, nesse encontro o cronograma de atividades da equipe é definido, de acordo com o que o cliente entende como prioridade. é um tipo de guia porém flexivo, podendo sofrer alterações durante o processo. 
 Stand Up Meetings, “Reuniões em pé”, é uma reunião rápidas que não busca solucionar problemas mas trocar conversa sobre o andamento dos processos.
-Entregas curtas, Apresentar ao cliente pequenas versões do que está sendo desenvolvido, por menores que sejam, fazendo o mesmo se familiarizar com o produto, além do que, essas amostras servem para feddback, indicando pontos de melhorias para o produto final atender as suas expectativas.
-Metáfora, tem o objetivo de facilitar a comunicação, tanto com o cliente quanto com a equipe, principalmente com o cliente já que o mesmo não entende termos técnico.
-Design simples e intutitivo, Desde que atenda as necessidades do cliente, quanto mais simples o código, melhor, mantendo algo intuitivo qualquer pessoa da equipe pode alterar caso haja necessidade.
-40 horas semanais, trabalho com 8 horas diárias para a equipe manter um ritmo de trabalho saudável e manter a equipe bem. 
+"Entregas curtas", Apresentar ao cliente pequenas versões do que está sendo desenvolvido, por menores que sejam, fazendo o mesmo se familiarizar com o produto, além do que, essas amostras servem para feedback, indicando pontos de melhorias para o produto final atender as suas expectativas.
+"Metáfora", tem o objetivo de facilitar a comunicação, tanto com o cliente quanto com a equipe, principalmente com o cliente já que o mesmo não entende termos técnico.
+"Design simples e intutitivo", Desde que atenda as necessidades do cliente, quanto mais simples o código, melhor, mantendo algo intuitivo qualquer pessoa da equipe pode alterar caso haja necessidade.
+"40 horas semanais", trabalho com 8 horas diárias para a equipe manter um ritmo de trabalho saudável e manter a equipe bem. 
 ## 🔧 Ferramentas de Gestão de Desenvolvimento  
 ### 💪 GitHub / GitLab  
 Por mais que sejam plataformas com algumas semelhanças o GitHub e o GitLab são plataformas diferentes, esse têm uma interface mais amigável e um grande suporte da comunidade. Tem uma ampla gama de funcionalidades, este por outro lado é projetado para simplificar todo o ciclo de vida do DevOps, fornecendo um conjunto abrangente de ferramentas em uma única interface,  facilitando para as equipes automatizarem testes e implementações.
