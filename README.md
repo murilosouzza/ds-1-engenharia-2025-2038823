@@ -49,7 +49,7 @@ Kanban é uma metodologia agil, ou seja ela é uma maneira que um grupo usa para
 "Padronização dos trabalhos", estabelecendo padrões é possível eliminar as variações e inconcistência, garantindo qualidade e consistência. Além do mais esse estilo de forma de trabalhar facilita o treinamento de novos membros da equipe.
 "Aperfeiçoamento contínuo das atividades", por meio de analises de dados, o Kanban busca constante melhoria nos processos, estimulando o grupo identificar e resolver problemas, eliminando desperdícios, aprimorando a eficiência do sistema. 
 Tudo isso torna o Kanban uma metodologia muito forte para empresas que buscam aprimorar seu trabalho e alcançar resultados consistentes. 
-🚀 Extreme Programming (XP)
+## 🚀 Extreme Programming (XP)
 É uma metodoligia ágil que foca no desenvolvimento de softwarees que funciona de acordo com seus próprios princípios e práticas.
 Tem como principal obejtivo desenvolver softwares de qualidade, que atendam as necessidades dos clientes é adaptativo as mudanças, focando sempre na simplicidade; também preza pela comunicação e trabalho em equipe. 
 Da mesma forma que outras metodoligas, essa tembém apresenta alguns princípios, "comunicação", muito usada para facilitar o processo de desenvolvimento, mostrando a importância da equipe estar sempre em contato com o cliente e entre si.
