@@ -14,7 +14,7 @@ A terceira é o desenvolvimento e validação, o software é desenvolvido, um pr
 A quarta e última fase é o planejamento, se assemelha muito com a primeira fase, com a grande diferença que, a equipe já possui algo criado, ela realiza um novo planejamento detalhado para o próximo cliclo da espiral. são estabelecidos recursos, prazos e objetivos para o próximo cliclo. A estratégia normalmente é baseada com resultados obtidos no cilco anterior.
 Se destaca pela sua flexibilidade, pois permite alterações em cada ciclo, mas em contraponto mostra-se mais cara, pois a mesma exige vários cilcos de produção, mão de obra. E normalmente é utilizada por equipe com um maior conhecimento prévio. 
 ## 💪 Metodologias Ágeis
-Nos cenários atuais de competição e dinanismo se tornaram algo muito visado principalmente na área da tecnologia. Fazendo com que várias empresas adotem metodoligas ágeis.
+Nos cenários atuais de competição, o dinanismo se tornou algo muito visado principalmente na área da tecnologia. Fazendo com que várias empresas adotem metodoligas ágeis.
 Esse princípio tem como base um conjunto de práticas voltada para área de gestão de projetos de desenvolvimento de produtos, enfatiza flexibilidade, colaboração e melhora contínua.
 Varia conforme o contexto do projeto, mas normalmente segue abordagens como Scrum, Kanban ou XP (Extreme Programming) 
 ### 📖 Manifesto Ágil 
