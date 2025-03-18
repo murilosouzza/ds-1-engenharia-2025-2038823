@@ -43,7 +43,6 @@ A Execução, "Daily Stand-ups ou Daily Sprints", definido o planejamento, a equ
 A Revisão, "Sprint Review", com duração de no máximo 4 horas, os participantes realizam as entregas, para garantir que os requisitos previamente definidos foram atendidos, nessa etapa a parte interessada fornece os feedbacks, ajudando a ajustar o produto para
 empresa.
 A Retrospectiva, "Sprint Retrospective", etapa fundamental para o aprendizado e melhoria contínua, sendo uma reunião que não deve pasar de três horas, no encontro a equipe idêntifica áreas que podem ser melhoradas e o que funcionou de maneira esperada, é aqui também que cada membro se auto avalia.
-
 ## 🎯 Kanban 
 Kanban é uma metodologia agil, ou seja ela é uma maneira que um grupo usa para trabalhar. Esse método consiste em um conjunto de práticas que busca evoluir a maneira que a empresa entrega valor nos serviços prestados, a metodoliga possui certos principios, a produção nivelada é um deles, ou seja, é procurado equilibrar a demanda de trabalho, para que o mesmo seja distribuido de maneira uniforme, evitando sobrecargas e garantindo um fluxo de trabalho leve.
 "Redução do tempo de preparação", a metodologia também busca reduzir o tempo gasto para preparar uma tarefa ou processo. 
