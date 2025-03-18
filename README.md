@@ -55,7 +55,7 @@ Tudo isso torna o Kanban uma metodologia muito forte para empresas que buscam ap
 Tem como principal obejtivo desenvolver softwares de qualidade, que atendam as necessidades dos clientes é adaptativo as mudanças, focando sempre na simplicidade; também preza pela comunicação e trabalho em equipe. 
 Da mesma forma que outras metodoligas, essa tembém apresenta alguns princípios, "comunicação", muito usada para facilitar o processo de desenvolvimento, mostrando a importância da equipe estar sempre em contato com o cliente e entre si.
 "Feedback, uma resposta aos processos que já foram entregue, ou seja, ao que a empresa está mostrando ao cliente, o metodo valoriza a troca de ideias entre cliente e equipe, ajudando na melhoria da comunicação.
-"Respeito", o XP valoriza o trabalho em equipe, por isso, é importante ouvir opniões contrárias, manter o reseito e aceitar sugestões é fundamental.
+"Respeito", o XP valoriza o trabalho em equipe, por isso, é importante ouvir opniões contrárias, manter o repeito e aceitar sugestões é fundamental.
 "Simplicidade", Facilitando a codificação, diminui o trabalho caso haja alterações e com isso reduz o tempo de trabalho da equipe.
 "Coragem', é necessário para assumir grandes projetos, saber ouvir clientes, encarar mudanças e trabalhar com prazo.
 Na pratica o cliente faz parte do processo de desenvolvimento, por isso a comunicação com ele em todos os processos é fundamental. O mesmo deve ser informado sobre o andamento do sistema e informado em caso de mudanças, e principalmente ouvido.
