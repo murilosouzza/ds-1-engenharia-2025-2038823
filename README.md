@@ -87,7 +87,7 @@ Também é possivel gerenciar os trabalhos por meio de painéis ágeis.
 A ferramenta também permite a integrações a um app, issos aprimora a funcionalidade do mesmo. 
 O Jira e o Trello, eles possuem algumas diferenças. Este o movimento dos cartôes é liberado, ou seja, a qualquer momento é possível tocar da aba "em andamento" para "concluido". Já no Jira existem certas condições que podem ou não serem criadas pelo usuário do software; exemplificando isso os cards só podem mudar de posição caso seja sinalizado um revisor. 
 Outra coisa a salientar é que o Jira serve para corporações maiores que precisam de dinanismo entre as equipes, normalmente exigindo uma maior organização no processo de um projeto.
-Já o Trello é melhorpara organizações menores, pois principalmente é uma ferramenta muito simples de usar.
+Já o Trello é melhor para organizações menores, pois principalmente é uma ferramenta muito simples de usar.
 É bom salientar que as duas plataformas são excelentes, o que deve ser levado em consideração é a necessidade e o tamanho do time diante de um projeto.
 Também possuem diferenças de preço, a versão "Business class" do Trello custa $10 doláres por mês, e a Standard do Jira custa $7. O jira têm também uma versão premium, euqnato o Trello, este têm a opção "Enterprise" que o preço varia de acordo com a quantidade de usuários.
 
